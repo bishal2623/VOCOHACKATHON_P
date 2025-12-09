@@ -1,7 +1,7 @@
 # <p align="center"><img align="center" width="80" src="./assets/logo-white.png"/> VoCo</p>
 <h2 align="center">Advanced Vocational Training Application 📱</h2>
 <hr>
-<h2 align="center">TEAM VISION : Winner 🏆 Of Smart India Hackathon 2022 (SIH 2022) 🌟</h2>
+<h2 align="center">TEAM HAWKEYE : TEAM OF ELITE DEVELOPERS FROM PCU</h2>
 
 <h2 align="center">COMPLETE DESCRIPTION</h2>
 
