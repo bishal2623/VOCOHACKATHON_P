@@ -1,4 +1,4 @@
-# <p align="center"><img align="center" width="80" src="./assets/logo-white.png"/> VoCo</p>
+# <p align="center"><img align="center" width="80" src="./assets/logo-white.png"/> Student Grievance Support System 🏫</p>
 <h2 align="center">Advanced Vocational Training Application 📱</h2>
 <hr>
 <h2 align="center">TEAM HAWKEYE : TEAM OF ELITE DEVELOPERS FROM PCU</h2>
