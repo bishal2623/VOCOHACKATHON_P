@@ -9,7 +9,7 @@
 ## Our Project :
 Software for Vocational Training for persons with visual impairment
 
-### Project Description :
+### Project Description :   
 <b>Background:</b> A web/app based solution required for vocational training for persons with visual impairment. It would have greater accessibility support and a better user interface.
 
 <b>Situation:</b> Currently no such software is available for persons with visual impairment. Further because of their mobility, it is difficult for them to get offline vocational training. Such software will enable them to get suitable vocational training in the area of their interest and will enable them to become self dependent.
