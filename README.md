@@ -5,7 +5,7 @@
   
 <h2 align="center">COMPLETE DESCRIPTION</h2>
 
-
+   
 ## Our Project :
 Software for Vocational Training for persons with visual impairment
 
